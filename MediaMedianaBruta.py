@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import os
 import glob
 
 # Abre as imagens de um diretório e armazena em um vetor
